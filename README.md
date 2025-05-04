@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Maaz Qureshi  
 ### *Software Engineering Student | Full-Stack Developer | Tech Enthusiast*  
 
-[![GitHub followers](https://img.shields.io/github/followers/MaazQureshi?label=Follow&style=social)](https://github.com/MaazQureshi)
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MaazQureshi.MaazQureshi)](https://github.com/MaazQureshi)
+[![GitHub followers](https://img.shields.io/github/followers/MaazQureshi-Code?label=Follow&style=social)](https://github.com/MaazQureshi-Code)
+[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MaazQureshi-Code.MaazQureshi-Code)](https://github.com/MaazQureshi-Code)
 
 ---
 
 ## 🚀 About Me  
 A motivated **Software Engineering student** at **Eastern Mediterranean University** with:  
 ✅ Solid foundation in programming & web development  
+✅ 2+ years of hands-on coding experience  
 ✅ Fluent in **English, Farsi, Pashto, and Urdu**  
 ✅ Developed practical applications using modern tech stacks  
 ✅ Passionate about clean code and problem-solving  
 
 **Core Expertise:**  
-`Java` `JavaScript` `React` `Node.js` `SQL` `REST API` `Git` `Figma`
+`Java` `JavaScript` `React` `ASP.NET` `SQL` `REST API` `Git` `Figma`
 
 ---
 
@@ -26,9 +27,11 @@ A motivated **Software Engineering student** at **Eastern Mediterranean Universi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?logo=.net&logoColor=white)
 ![ejs](https://img.shields.io/badge/EJS-8A2BE2?logoColor=white)
 
 ### **Frameworks**  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
@@ -45,6 +48,7 @@ A motivated **Software Engineering student** at **Eastern Mediterranean Universi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?logo=git)
 ![Sandbox](https://img.shields.io/badge/Sandbox-00B0FF?logoColor=white)
+![Cocalu](https://img.shields.io/badge/Cocalu-000000?logoColor=white)
 
 ### **Design & Testing**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
@@ -67,7 +71,7 @@ Expanding my horizons in emerging technologies:
 ---
 
 ## 🔧 Development Workflow  
-**Frontend**: React + Bootstrap + ejs  
+**Frontend**: React + Bootstrap + ASP.NET  
 **Backend**: Node.js + REST API + PostgreSQL  
 **Testing**: Postman + Manual Testing  
 **Version Control**: Git/GitHub + Git Bash  
@@ -77,8 +81,8 @@ Expanding my horizons in emerging technologies:
 ---
 
 ## 📊 GitHub Stats  
-![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazQureshi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazQureshi&layout=compact&theme=radical)  
+![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazQureshi-Code&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazQureshi-Code&layout=compact&theme=radical)  
 
 ---
 
