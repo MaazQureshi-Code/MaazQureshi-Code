@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Maaz Qureshi  
-### *Software Engineering Student | Full-Stack Developer | Tech Enthusiast*  
+### *Software Engineering Student*  
 
 [![GitHub followers](https://img.shields.io/github/followers/MaazQureshi-Code?label=Follow&style=social)](https://github.com/MaazQureshi-Code)
 [![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MaazQureshi-Code.MaazQureshi-Code)](https://github.com/MaazQureshi-Code)
